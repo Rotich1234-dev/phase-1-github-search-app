@@ -34,7 +34,7 @@ This endpoint is rate limited. This means the API will stop returning data if
 you make more than
 [10 requests per minute](https://developer.github.com/v3/search/#rate-limit).
 
-### [User Repos Endpoint](https://developer.github.com/v3/repos/#list-user-repositories)
+### [User Repos Endpoint](https://docs.github.com/en/rest/search?apiVersion=2022-11-28#search-repositories)
 
 You can find all the public repositories for a user using this endpoint. For
 example if we wanted to find all the repositories for a user with GitHub
